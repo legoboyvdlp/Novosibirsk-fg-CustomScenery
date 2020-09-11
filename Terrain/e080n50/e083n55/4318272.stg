@@ -1,0 +1,7 @@
+OBJECT_BASE 4318272.btg
+OBJECT UNNE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 82.999613 55.079002 177.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 83.002068 55.080230 176.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 83.014610 55.098024 191.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 83.019065 55.108505 191.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 83.005182 55.089684 185.8 0.00
